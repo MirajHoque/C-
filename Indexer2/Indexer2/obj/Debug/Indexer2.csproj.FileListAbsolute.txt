@@ -1,0 +1,14 @@
+C:\Users\ahmir\Documents\C#\Indexer2\Indexer2\bin\Debug\Indexer2.exe.config
+C:\Users\ahmir\Documents\C#\Indexer2\Indexer2\bin\Debug\Indexer2.exe
+C:\Users\ahmir\Documents\C#\Indexer2\Indexer2\bin\Debug\Indexer2.pdb
+C:\Users\ahmir\Documents\C#\Indexer2\Indexer2\obj\Debug\Indexer2.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\Indexer2\Indexer2\obj\Debug\Indexer2.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\Indexer2\Indexer2\obj\Debug\Indexer2.exe
+C:\Users\ahmir\Documents\C#\Indexer2\Indexer2\obj\Debug\Indexer2.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\Indexer2\Indexer2\bin\Debug\Indexer2.exe.config
+C:\Users\ahmir\OneDrive\Documents\C#\Indexer2\Indexer2\bin\Debug\Indexer2.exe
+C:\Users\ahmir\OneDrive\Documents\C#\Indexer2\Indexer2\bin\Debug\Indexer2.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\Indexer2\Indexer2\obj\Debug\Indexer2.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\Indexer2\Indexer2\obj\Debug\Indexer2.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\Indexer2\Indexer2\obj\Debug\Indexer2.exe
+C:\Users\ahmir\OneDrive\Documents\C#\Indexer2\Indexer2\obj\Debug\Indexer2.pdb

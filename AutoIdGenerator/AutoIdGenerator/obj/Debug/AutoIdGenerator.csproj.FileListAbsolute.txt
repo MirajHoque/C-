@@ -1,0 +1,7 @@
+C:\Users\ahmir\Documents\C#\AutoIdGenerator\AutoIdGenerator\bin\Debug\AutoIdGenerator.exe.config
+C:\Users\ahmir\Documents\C#\AutoIdGenerator\AutoIdGenerator\bin\Debug\AutoIdGenerator.exe
+C:\Users\ahmir\Documents\C#\AutoIdGenerator\AutoIdGenerator\bin\Debug\AutoIdGenerator.pdb
+C:\Users\ahmir\Documents\C#\AutoIdGenerator\AutoIdGenerator\obj\Debug\AutoIdGenerator.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\AutoIdGenerator\AutoIdGenerator\obj\Debug\AutoIdGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\AutoIdGenerator\AutoIdGenerator\obj\Debug\AutoIdGenerator.exe
+C:\Users\ahmir\Documents\C#\AutoIdGenerator\AutoIdGenerator\obj\Debug\AutoIdGenerator.pdb

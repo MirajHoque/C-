@@ -1,0 +1,13 @@
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\bin\Debug\logInMetroUI.exe.config
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\bin\Debug\logInMetroUI.exe
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\bin\Debug\logInMetroUI.pdb
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\bin\Debug\MetroFramework.dll
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\obj\Debug\logInMetroUI.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\obj\Debug\logInMetroUI.Properties.Resources.resources
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\obj\Debug\logInMetroUI.csproj.GenerateResource.cache
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\obj\Debug\logInMetroUI.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\obj\Debug\logInMetroUI.csproj.CopyComplete
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\obj\Debug\logInMetroUI.exe
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\obj\Debug\logInMetroUI.pdb
+C:\Users\ahmir\Documents\C#\logInMetroUI\logInMetroUI\obj\Debug\logInMetroUI.Form1.resources

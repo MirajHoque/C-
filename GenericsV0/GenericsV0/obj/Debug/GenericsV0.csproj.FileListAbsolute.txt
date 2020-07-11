@@ -1,0 +1,7 @@
+C:\Users\ahmir\Documents\C#\GenericsV0\GenericsV0\bin\Debug\GenericsV0.exe.config
+C:\Users\ahmir\Documents\C#\GenericsV0\GenericsV0\bin\Debug\GenericsV0.exe
+C:\Users\ahmir\Documents\C#\GenericsV0\GenericsV0\bin\Debug\GenericsV0.pdb
+C:\Users\ahmir\Documents\C#\GenericsV0\GenericsV0\obj\Debug\GenericsV0.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\GenericsV0\GenericsV0\obj\Debug\GenericsV0.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\GenericsV0\GenericsV0\obj\Debug\GenericsV0.exe
+C:\Users\ahmir\Documents\C#\GenericsV0\GenericsV0\obj\Debug\GenericsV0.pdb

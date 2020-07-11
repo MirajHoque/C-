@@ -1,0 +1,14 @@
+C:\Users\ahmir\Documents\C#\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\ahmir\Documents\C#\enum\enum\bin\Debug\@enum.exe
+C:\Users\ahmir\Documents\C#\enum\enum\bin\Debug\@enum.pdb
+C:\Users\ahmir\Documents\C#\enum\enum\obj\Debug\enum.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\enum\enum\obj\Debug\@enum.exe
+C:\Users\ahmir\Documents\C#\enum\enum\obj\Debug\@enum.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\ahmir\OneDrive\Documents\C#\enum\enum\bin\Debug\@enum.exe
+C:\Users\ahmir\OneDrive\Documents\C#\enum\enum\bin\Debug\@enum.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\enum\enum\obj\Debug\enum.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\enum\enum\obj\Debug\@enum.exe
+C:\Users\ahmir\OneDrive\Documents\C#\enum\enum\obj\Debug\@enum.pdb

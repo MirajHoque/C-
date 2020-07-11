@@ -1,0 +1,14 @@
+C:\Users\ahmir\Documents\C#\StudentStructure\StudentStructure\obj\Debug\StudentStructure.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\StudentStructure\StudentStructure\obj\Debug\StudentStructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\StudentStructure\StudentStructure\bin\Debug\StudentStructure.exe.config
+C:\Users\ahmir\Documents\C#\StudentStructure\StudentStructure\bin\Debug\StudentStructure.exe
+C:\Users\ahmir\Documents\C#\StudentStructure\StudentStructure\bin\Debug\StudentStructure.pdb
+C:\Users\ahmir\Documents\C#\StudentStructure\StudentStructure\obj\Debug\StudentStructure.exe
+C:\Users\ahmir\Documents\C#\StudentStructure\StudentStructure\obj\Debug\StudentStructure.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\StudentStructure\StudentStructure\bin\Debug\StudentStructure.exe.config
+C:\Users\ahmir\OneDrive\Documents\C#\StudentStructure\StudentStructure\bin\Debug\StudentStructure.exe
+C:\Users\ahmir\OneDrive\Documents\C#\StudentStructure\StudentStructure\bin\Debug\StudentStructure.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\StudentStructure\StudentStructure\obj\Debug\StudentStructure.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\StudentStructure\StudentStructure\obj\Debug\StudentStructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\StudentStructure\StudentStructure\obj\Debug\StudentStructure.exe
+C:\Users\ahmir\OneDrive\Documents\C#\StudentStructure\StudentStructure\obj\Debug\StudentStructure.pdb

@@ -1,0 +1,14 @@
+C:\Users\ahmir\Documents\C#\ArrayAsArgument\ArrayAsArgument\bin\Debug\ArrayAsArgument.exe.config
+C:\Users\ahmir\Documents\C#\ArrayAsArgument\ArrayAsArgument\bin\Debug\ArrayAsArgument.exe
+C:\Users\ahmir\Documents\C#\ArrayAsArgument\ArrayAsArgument\bin\Debug\ArrayAsArgument.pdb
+C:\Users\ahmir\Documents\C#\ArrayAsArgument\ArrayAsArgument\obj\Debug\ArrayAsArgument.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\ArrayAsArgument\ArrayAsArgument\obj\Debug\ArrayAsArgument.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\ArrayAsArgument\ArrayAsArgument\obj\Debug\ArrayAsArgument.exe
+C:\Users\ahmir\Documents\C#\ArrayAsArgument\ArrayAsArgument\obj\Debug\ArrayAsArgument.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\ArrayAsArgument\ArrayAsArgument\bin\Debug\ArrayAsArgument.exe.config
+C:\Users\ahmir\OneDrive\Documents\C#\ArrayAsArgument\ArrayAsArgument\bin\Debug\ArrayAsArgument.exe
+C:\Users\ahmir\OneDrive\Documents\C#\ArrayAsArgument\ArrayAsArgument\bin\Debug\ArrayAsArgument.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\ArrayAsArgument\ArrayAsArgument\obj\Debug\ArrayAsArgument.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\ArrayAsArgument\ArrayAsArgument\obj\Debug\ArrayAsArgument.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\ArrayAsArgument\ArrayAsArgument\obj\Debug\ArrayAsArgument.exe
+C:\Users\ahmir\OneDrive\Documents\C#\ArrayAsArgument\ArrayAsArgument\obj\Debug\ArrayAsArgument.pdb

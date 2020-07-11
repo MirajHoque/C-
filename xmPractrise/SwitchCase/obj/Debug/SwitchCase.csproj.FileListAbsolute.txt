@@ -1,0 +1,2 @@
+C:\Users\ahmir\source\repos\xmPractrise\SwitchCase\obj\Debug\SwitchCase.csprojAssemblyReference.cache
+C:\Users\ahmir\source\repos\xmPractrise\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache

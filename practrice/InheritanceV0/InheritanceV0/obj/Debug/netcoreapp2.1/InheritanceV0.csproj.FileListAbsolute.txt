@@ -1,0 +1,4 @@
+C:\Users\ahmir\OneDrive\Documents\C#\practrice\InheritanceV0\InheritanceV0\obj\Debug\netcoreapp2.1\InheritanceV0.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\practrice\InheritanceV0\InheritanceV0\obj\Debug\netcoreapp2.1\InheritanceV0.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\practrice\InheritanceV0\InheritanceV0\obj\Debug\netcoreapp2.1\InheritanceV0.AssemblyInfoInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\practrice\InheritanceV0\InheritanceV0\obj\Debug\netcoreapp2.1\InheritanceV0.AssemblyInfo.cs

@@ -1,0 +1,7 @@
+C:\Users\ahmir\Documents\C#\JaggedArrayQuizOutputV1\JaggedArrayQuizOutputV1\bin\Debug\JaggedArrayQuizOutputV1.exe.config
+C:\Users\ahmir\Documents\C#\JaggedArrayQuizOutputV1\JaggedArrayQuizOutputV1\bin\Debug\JaggedArrayQuizOutputV1.exe
+C:\Users\ahmir\Documents\C#\JaggedArrayQuizOutputV1\JaggedArrayQuizOutputV1\bin\Debug\JaggedArrayQuizOutputV1.pdb
+C:\Users\ahmir\Documents\C#\JaggedArrayQuizOutputV1\JaggedArrayQuizOutputV1\obj\Debug\JaggedArrayQuizOutputV1.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\JaggedArrayQuizOutputV1\JaggedArrayQuizOutputV1\obj\Debug\JaggedArrayQuizOutputV1.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\JaggedArrayQuizOutputV1\JaggedArrayQuizOutputV1\obj\Debug\JaggedArrayQuizOutputV1.exe
+C:\Users\ahmir\Documents\C#\JaggedArrayQuizOutputV1\JaggedArrayQuizOutputV1\obj\Debug\JaggedArrayQuizOutputV1.pdb

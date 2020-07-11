@@ -1,0 +1,7 @@
+C:\Users\ahmir\Documents\C#\OverridingEncapsulation\OverridingEncapsulation\obj\Debug\OverridingEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\OverridingEncapsulation\OverridingEncapsulation\bin\Debug\OverridingEncapsulation.exe.config
+C:\Users\ahmir\Documents\C#\OverridingEncapsulation\OverridingEncapsulation\bin\Debug\OverridingEncapsulation.exe
+C:\Users\ahmir\Documents\C#\OverridingEncapsulation\OverridingEncapsulation\bin\Debug\OverridingEncapsulation.pdb
+C:\Users\ahmir\Documents\C#\OverridingEncapsulation\OverridingEncapsulation\obj\Debug\OverridingEncapsulation.exe
+C:\Users\ahmir\Documents\C#\OverridingEncapsulation\OverridingEncapsulation\obj\Debug\OverridingEncapsulation.pdb
+C:\Users\ahmir\Documents\C#\OverridingEncapsulation\OverridingEncapsulation\obj\Debug\OverridingEncapsulation.csprojAssemblyReference.cache

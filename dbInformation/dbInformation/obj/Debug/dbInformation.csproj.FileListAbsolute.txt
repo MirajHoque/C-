@@ -1,0 +1,10 @@
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\bin\Debug\dbInformation.exe.config
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\bin\Debug\dbInformation.exe
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\bin\Debug\dbInformation.pdb
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\obj\Debug\dbInformation.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\obj\Debug\dbInformation.Information.resources
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\obj\Debug\dbInformation.Properties.Resources.resources
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\obj\Debug\dbInformation.csproj.GenerateResource.cache
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\obj\Debug\dbInformation.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\obj\Debug\dbInformation.exe
+C:\Users\ahmir\Documents\C#\dbInformation\dbInformation\obj\Debug\dbInformation.pdb

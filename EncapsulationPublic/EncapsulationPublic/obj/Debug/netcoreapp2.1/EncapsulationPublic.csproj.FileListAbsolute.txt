@@ -1,0 +1,11 @@
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\bin\Debug\netcoreapp2.1\EncapsulationPublic.deps.json
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\bin\Debug\netcoreapp2.1\EncapsulationPublic.runtimeconfig.json
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\bin\Debug\netcoreapp2.1\EncapsulationPublic.runtimeconfig.dev.json
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\bin\Debug\netcoreapp2.1\EncapsulationPublic.dll
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\bin\Debug\netcoreapp2.1\EncapsulationPublic.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\obj\Debug\netcoreapp2.1\EncapsulationPublic.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\obj\Debug\netcoreapp2.1\EncapsulationPublic.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\obj\Debug\netcoreapp2.1\EncapsulationPublic.AssemblyInfoInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\obj\Debug\netcoreapp2.1\EncapsulationPublic.AssemblyInfo.cs
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\obj\Debug\netcoreapp2.1\EncapsulationPublic.dll
+C:\Users\ahmir\OneDrive\Documents\C#\EncapsulationPublic\EncapsulationPublic\obj\Debug\netcoreapp2.1\EncapsulationPublic.pdb

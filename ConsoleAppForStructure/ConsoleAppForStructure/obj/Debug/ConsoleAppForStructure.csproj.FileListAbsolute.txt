@@ -1,0 +1,7 @@
+C:\Users\ahmir\Documents\C#\ConsoleAppForStructure\ConsoleAppForStructure\bin\Debug\ConsoleAppForStructure.exe.config
+C:\Users\ahmir\Documents\C#\ConsoleAppForStructure\ConsoleAppForStructure\bin\Debug\ConsoleAppForStructure.exe
+C:\Users\ahmir\Documents\C#\ConsoleAppForStructure\ConsoleAppForStructure\bin\Debug\ConsoleAppForStructure.pdb
+C:\Users\ahmir\Documents\C#\ConsoleAppForStructure\ConsoleAppForStructure\obj\Debug\ConsoleAppForStructure.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\ConsoleAppForStructure\ConsoleAppForStructure\obj\Debug\ConsoleAppForStructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\ConsoleAppForStructure\ConsoleAppForStructure\obj\Debug\ConsoleAppForStructure.exe
+C:\Users\ahmir\Documents\C#\ConsoleAppForStructure\ConsoleAppForStructure\obj\Debug\ConsoleAppForStructure.pdb

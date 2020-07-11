@@ -1,0 +1,14 @@
+C:\Users\ahmir\Documents\C#\CarStructure\CarStructure\bin\Debug\CarStructure.exe.config
+C:\Users\ahmir\Documents\C#\CarStructure\CarStructure\bin\Debug\CarStructure.exe
+C:\Users\ahmir\Documents\C#\CarStructure\CarStructure\bin\Debug\CarStructure.pdb
+C:\Users\ahmir\Documents\C#\CarStructure\CarStructure\obj\Debug\CarStructure.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\CarStructure\CarStructure\obj\Debug\CarStructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\CarStructure\CarStructure\obj\Debug\CarStructure.exe
+C:\Users\ahmir\Documents\C#\CarStructure\CarStructure\obj\Debug\CarStructure.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\CarStructure\CarStructure\bin\Debug\CarStructure.exe.config
+C:\Users\ahmir\OneDrive\Documents\C#\CarStructure\CarStructure\bin\Debug\CarStructure.exe
+C:\Users\ahmir\OneDrive\Documents\C#\CarStructure\CarStructure\bin\Debug\CarStructure.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\CarStructure\CarStructure\obj\Debug\CarStructure.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\CarStructure\CarStructure\obj\Debug\CarStructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\CarStructure\CarStructure\obj\Debug\CarStructure.exe
+C:\Users\ahmir\OneDrive\Documents\C#\CarStructure\CarStructure\obj\Debug\CarStructure.pdb

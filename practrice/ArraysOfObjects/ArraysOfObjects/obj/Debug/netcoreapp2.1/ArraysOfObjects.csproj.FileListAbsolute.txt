@@ -1,0 +1,4 @@
+C:\Users\ahmir\OneDrive\Documents\C#\practrice\ArraysOfObjects\ArraysOfObjects\obj\Debug\netcoreapp2.1\ArraysOfObjects.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\practrice\ArraysOfObjects\ArraysOfObjects\obj\Debug\netcoreapp2.1\ArraysOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\practrice\ArraysOfObjects\ArraysOfObjects\obj\Debug\netcoreapp2.1\ArraysOfObjects.AssemblyInfoInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\practrice\ArraysOfObjects\ArraysOfObjects\obj\Debug\netcoreapp2.1\ArraysOfObjects.AssemblyInfo.cs

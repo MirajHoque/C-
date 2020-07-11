@@ -1,0 +1,7 @@
+C:\Users\ahmir\Documents\C#\EmployeeStruct\EmployeeStruct\bin\Debug\EmployeeStruct.exe.config
+C:\Users\ahmir\Documents\C#\EmployeeStruct\EmployeeStruct\bin\Debug\EmployeeStruct.exe
+C:\Users\ahmir\Documents\C#\EmployeeStruct\EmployeeStruct\bin\Debug\EmployeeStruct.pdb
+C:\Users\ahmir\Documents\C#\EmployeeStruct\EmployeeStruct\obj\Debug\EmployeeStruct.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\EmployeeStruct\EmployeeStruct\obj\Debug\EmployeeStruct.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\EmployeeStruct\EmployeeStruct\obj\Debug\EmployeeStruct.exe
+C:\Users\ahmir\Documents\C#\EmployeeStruct\EmployeeStruct\obj\Debug\EmployeeStruct.pdb

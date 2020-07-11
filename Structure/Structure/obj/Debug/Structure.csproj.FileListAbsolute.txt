@@ -1,0 +1,14 @@
+C:\Users\ahmir\Documents\C#\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\ahmir\Documents\C#\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\ahmir\Documents\C#\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\ahmir\Documents\C#\Structure\Structure\obj\Debug\Structure.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\ahmir\Documents\C#\Structure\Structure\obj\Debug\Structure.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\ahmir\OneDrive\Documents\C#\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\ahmir\OneDrive\Documents\C#\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\Structure\Structure\obj\Debug\Structure.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\ahmir\OneDrive\Documents\C#\Structure\Structure\obj\Debug\Structure.pdb

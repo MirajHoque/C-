@@ -1,0 +1,7 @@
+C:\Users\ahmir\source\repos\xmPractrise\xmPractrise\bin\Debug\xmPractrise.exe.config
+C:\Users\ahmir\source\repos\xmPractrise\xmPractrise\bin\Debug\xmPractrise.exe
+C:\Users\ahmir\source\repos\xmPractrise\xmPractrise\bin\Debug\xmPractrise.pdb
+C:\Users\ahmir\source\repos\xmPractrise\xmPractrise\obj\Debug\xmPractrise.csprojAssemblyReference.cache
+C:\Users\ahmir\source\repos\xmPractrise\xmPractrise\obj\Debug\xmPractrise.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\source\repos\xmPractrise\xmPractrise\obj\Debug\xmPractrise.exe
+C:\Users\ahmir\source\repos\xmPractrise\xmPractrise\obj\Debug\xmPractrise.pdb

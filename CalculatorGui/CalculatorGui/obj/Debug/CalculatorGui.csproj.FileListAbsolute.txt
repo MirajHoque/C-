@@ -1,0 +1,10 @@
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\bin\Debug\CalculatorGui.exe.config
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\bin\Debug\CalculatorGui.exe
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\bin\Debug\CalculatorGui.pdb
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\obj\Debug\CalculatorGui.Properties.Resources.resources
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\obj\Debug\CalculatorGui.csproj.GenerateResource.cache
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\obj\Debug\CalculatorGui.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\obj\Debug\CalculatorGui.exe
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\obj\Debug\CalculatorGui.pdb
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\obj\Debug\CalculatorGui.Calculators.resources
+C:\Users\ahmir\Documents\C#\CalculatorGui\CalculatorGui\obj\Debug\CalculatorGui.csprojAssemblyReference.cache

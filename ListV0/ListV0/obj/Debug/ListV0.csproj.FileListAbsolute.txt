@@ -1,0 +1,14 @@
+c:\users\ahmir\source\repos\ListV0\ListV0\bin\Debug\ListV0.exe.config
+c:\users\ahmir\source\repos\ListV0\ListV0\bin\Debug\ListV0.exe
+c:\users\ahmir\source\repos\ListV0\ListV0\bin\Debug\ListV0.pdb
+c:\users\ahmir\source\repos\ListV0\ListV0\obj\Debug\ListV0.csprojAssemblyReference.cache
+c:\users\ahmir\source\repos\ListV0\ListV0\obj\Debug\ListV0.csproj.CoreCompileInputs.cache
+c:\users\ahmir\source\repos\ListV0\ListV0\obj\Debug\ListV0.exe
+c:\users\ahmir\source\repos\ListV0\ListV0\obj\Debug\ListV0.pdb
+C:\Users\ahmir\Documents\C#\ListV0\ListV0\bin\Debug\ListV0.exe.config
+C:\Users\ahmir\Documents\C#\ListV0\ListV0\bin\Debug\ListV0.exe
+C:\Users\ahmir\Documents\C#\ListV0\ListV0\bin\Debug\ListV0.pdb
+C:\Users\ahmir\Documents\C#\ListV0\ListV0\obj\Debug\ListV0.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\ListV0\ListV0\obj\Debug\ListV0.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\ListV0\ListV0\obj\Debug\ListV0.exe
+C:\Users\ahmir\Documents\C#\ListV0\ListV0\obj\Debug\ListV0.pdb

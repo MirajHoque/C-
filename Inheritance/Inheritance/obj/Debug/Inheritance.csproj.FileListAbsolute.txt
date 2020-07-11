@@ -1,0 +1,14 @@
+C:\Users\ahmir\Documents\C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\ahmir\Documents\C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\ahmir\Documents\C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\ahmir\Documents\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\ahmir\Documents\C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\ahmir\OneDrive\Documents\C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\ahmir\OneDrive\Documents\C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\ahmir\OneDrive\Documents\C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

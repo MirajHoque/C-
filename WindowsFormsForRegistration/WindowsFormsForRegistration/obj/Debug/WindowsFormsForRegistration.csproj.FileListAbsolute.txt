@@ -1,0 +1,11 @@
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\bin\Debug\WindowsFormsForRegistration.exe.config
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\bin\Debug\WindowsFormsForRegistration.exe
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\bin\Debug\WindowsFormsForRegistration.pdb
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\obj\Debug\WindowsFormsForRegistration.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\obj\Debug\WindowsFormsForRegistration.Registration.resources
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\obj\Debug\WindowsFormsForRegistration.Properties.Resources.resources
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\obj\Debug\WindowsFormsForRegistration.csproj.GenerateResource.cache
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\obj\Debug\WindowsFormsForRegistration.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\obj\Debug\WindowsFormsForRegistration.exe
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\obj\Debug\WindowsFormsForRegistration.pdb
+C:\Users\ahmir\Documents\C#\WindowsFormsForRegistration\WindowsFormsForRegistration\obj\Debug\WindowsFormsForRegistration.ShowInformation.resources

@@ -1,0 +1,7 @@
+C:\Users\ahmir\source\repos\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+C:\Users\ahmir\source\repos\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe
+C:\Users\ahmir\source\repos\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.pdb
+C:\Users\ahmir\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csprojAssemblyReference.cache
+C:\Users\ahmir\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.exe
+C:\Users\ahmir\source\repos\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.pdb

@@ -1,0 +1,14 @@
+C:\Users\ahmir\Documents\C#\qui2p\qui2p\obj\Debug\qui2p.csprojAssemblyReference.cache
+C:\Users\ahmir\Documents\C#\qui2p\qui2p\obj\Debug\qui2p.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\Documents\C#\qui2p\qui2p\bin\Debug\qui2p.exe.config
+C:\Users\ahmir\Documents\C#\qui2p\qui2p\bin\Debug\qui2p.exe
+C:\Users\ahmir\Documents\C#\qui2p\qui2p\bin\Debug\qui2p.pdb
+C:\Users\ahmir\Documents\C#\qui2p\qui2p\obj\Debug\qui2p.exe
+C:\Users\ahmir\Documents\C#\qui2p\qui2p\obj\Debug\qui2p.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\qui2p\qui2p\bin\Debug\qui2p.exe.config
+C:\Users\ahmir\OneDrive\Documents\C#\qui2p\qui2p\bin\Debug\qui2p.exe
+C:\Users\ahmir\OneDrive\Documents\C#\qui2p\qui2p\bin\Debug\qui2p.pdb
+C:\Users\ahmir\OneDrive\Documents\C#\qui2p\qui2p\obj\Debug\qui2p.csprojAssemblyReference.cache
+C:\Users\ahmir\OneDrive\Documents\C#\qui2p\qui2p\obj\Debug\qui2p.csproj.CoreCompileInputs.cache
+C:\Users\ahmir\OneDrive\Documents\C#\qui2p\qui2p\obj\Debug\qui2p.exe
+C:\Users\ahmir\OneDrive\Documents\C#\qui2p\qui2p\obj\Debug\qui2p.pdb
